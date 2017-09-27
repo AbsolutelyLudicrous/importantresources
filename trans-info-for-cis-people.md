@@ -1,0 +1,166 @@
+# How do unerstand trans ppl⸮
+
+I'll open this document by saying that I'm no enlightened human, I'm a more-or-less average person.
+The only thing that makes me qualified to write such a document is that I've got a bit more knowledge than the average Jo.
+
+**Terminology:**
+
+	N-Word Privelages : Socially imposed permissions to use a certain slur.
+
+	($)name : a person's name.
+
+	($)deadname : in the case of a trans person, their former name, their at-birth name.
+
+	FtM : Female-to-Male, Born female, is male. A trans man.
+
+	MtF : Male-to-Female, Born male, is female. A trans woman.
+
+	AMAB : Assigned Male At Birth, anybody whose parents decided they were male.
+
+	AFAB : Assigned Female At Birth, anybody whose parents decided they were female.
+
+	NB (adj.) : Non-binary, anybody who's neither a man nor a woman.
+
+	enby (n.) : A non-binary human being.
+
+	GQ : GenderQueer, includes enbys; but also genderfluid, bigender, pangender, etc. people.
+
+	SRS : Sex Reassignment Surgery, none of your business, commonly called 'The Surgery(tm)'.
+
+		Top Surgery, AMAB : Breast augmentation.
+
+		Top Surgery, AFAB : Mastectomy.
+
+		Bottom Surgery, AMAB :	Vaginoplasty, the penis is turned into a vagina. Methods vary by country, region, doctor.
+					
+					Orchiectomy, removal of the testicles.
+
+					Peenectomy, removal of the penis.
+
+		Bottom Surgery, AFAB :	Phalloplasty, addition of the phallus.
+					
+					Hysterectomy, removal of the uterus(/ovaries? TODO consult Google.).
+	
+	HRT : Hormanal Reassignment Therapy, use of hormones to give a trans person their correct body.
+
+	deadnaming : Calling a person by their dead name, an extremely dickish thing to do, causes dysphoria.
+
+	misgendering : Using the wrong pronouns for a person, an extremely dickish thing to do, causes dysphoria.
+
+	(gender) dysphoria : An incredibly awful feeling which can't entirely be described. Discomfort with one's assigned gender, discomfort with one's self because of gender.
+
+	(gender) euphoria : The opposite of dysphoria.
+
+**About the Author:**
+
+	I'm AMAB(**A**ssigned **M**ale **A**t **B**irth) NB(**N**on-**B**inary); 
+	this means I can't really speak for the AFAB(**A**ssigned **F**emale **A**t **B**irth) side of the trans experience.
+	My name doesn't matter; 
+	I haven't chosen one yet. 
+	Just check whatever I've called myself on [GitHub](https://github.com/AbsolutelyLudicrous) to know what to call me.
+	
+	I'm also super new to being trans; 
+	I only started questioning a month ago, with identifying as NB coming two weeks after that.
+	I didn't even plan on writing this document so soon, but I got forced out of the closet and now need to inform people.
+	I'll probably answer the question of "Aren\'t you rushing things a bit?" in a later section.
+
+	On a non trans-related end, I'm a huge Unix nerd, love everything physics-related, and am more-outdoorsy-than-average.
+	I'm currently typing this document from a modern [Solus](https://solus-project.com) box with space allocated for either [NixOS](https://nixos.org/), [GoboLinux](https://gobolinux.org/), [SourceMage](https://sourcemage.org/), or [Bedrock Linux](https://bedrocklinux.org/);
+	or maybe even my fourth [Arch](https://www.archlinux.org/) install.
+	I have a Network-Attached Storage box consisting of a Raspberry Pi 3 running [OpenMediaVault](https://www.openmediavault.org/) and way too many USB peripherals.
+	It isn't much, there are many like it, but this one is mine.
+	I administer this server from a decade-old [FreeBSD](https://freebsd.org) box.
+	My love of physics is largely sci-fi related;
+	I take an interest in orbital mechanics, spaceflight, ISRU, on-orbit assembly, propulsion technology, etc.
+	I play way too much Kerbal Space Program, basically.
+	Finally, I'm decently outdoorsy.
+	I always *look* like I'm ready for a hike, but I think that's just the button-downs talking.
+	Doesn't mean I dislike nature, though;
+	some of my fondest memories are of hiking though exotic locales.
+
+Introduction over, so why was that so important?
+
+**Trans *people*:**
+
+	We're people just like you.
+	No, seriously, read the last paragraph of my introduction;
+	do I sound trans?
+	We're quite human.
+
+	Meaning: Stop saying 'trans(gender) people', start saying 'people'. 
+	Unless being trans is important to the information you're trying to convey, don't mention it.
+	
+	More things you shouldn't say:
+
+		+ '$name, who used to be $deadname, ...'; Just don't, their dead name is dead, you'll just encourage attacks.
+
+		+ 'Back when $pronoun was $deadpronoun, ...'; Again, you'll encourage hate. Either tell past stories with current pronouns or use gender neutral pronouns.
+
+		+ 'trap', 'tranny', 'Attack Helicopter', etc.; You do not have N-Word Privelages for those words and your Attack Helicopter(tm) jokes aren't funny. If you say those things, I *will* slap you.
+
+	What should you say, then?:
+
+		+ '$name'; that's their name. Not $deadname, their name is $name.
+
+		+ Proper pronouns; do not misgender a person. If, when, you mess up, correct yourself immediately.
+
+		+ 'they'; If you're ever unsure about gender, use gender neutral pronouns.
+
+	This also means you should treat trans people as human;
+	do not, unless asked to\*, use 'it' to refer to a trans person.
+	We are people.
+
+	Again, I need to hammer that home: transgender **people**
+	
+	\*^(Some NB people *do* use 'it' for their pronouns, in this case you should *absolutely* refer to it with 'it'.)
+
+So, what else do you need to know?
+You probably 'know' some things which are incorrect.
+Let's fix that.
+
+**Common Misconceptions**
+
+	Genitals determine gender:
+
+		Not true at all. 
+		Gender is wholly independent of what genitals you have.
+		A woman can have a penis, a man can have a vagina.
+
+	Trans people just need to learn to love themselves:
+
+		No;
+		shuddup.
+		We're, for lack of a better narrative, 'trapped in the wrong body'.
+
+	It's just a kink thing:
+
+		You're thinking of autogynephilia.
+		The two are very different;
+		autogynephilia is a fetish, being transgender is a discomfort with one's assigned gender.
+
+	Sexuality = Gender:
+
+		Trans people don't have to be straight.
+		Trans people can be gay.
+		Trans people can be asexual.
+		
+	Trans = Gay:
+
+		Most trans people are straight;
+		some aren't. 
+		Our sexuality, and yours, is entirely separate from our gender.
+
+Hopefully that's the basics cleared up.
+Here's some more 'dont\'s':
+
+**DON'Ts:**
+
+	Worry about what's in our pants. It's none of your business.
+
+	Misgender a person. Doing this is a dick move.
+
+	Invalidate a person's gender. It is not your role to decide another human's gender.
+
+	Try to 'turn them cis'. We cannot become cis any more than you can become trans.
+
+	Discriminate. 
