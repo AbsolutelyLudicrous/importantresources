@@ -16,3 +16,5 @@ Here's few things that I, personally, recommend:
 + Open up to the idea of being non-binary. Open up to the idea of being something other than strictly male or female. 
 
 + If you feel discomfort with your assigned gender, there's good odds that you're trans. Question even harderer.
+
++ Talk to a gender therapist. They know more than we internet armchair psycholigists do.
