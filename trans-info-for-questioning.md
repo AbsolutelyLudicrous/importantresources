@@ -13,7 +13,7 @@ Here's few things that I, personally, recommend:
 
 + Ask yourself, are you okay with your body? If you could change it, would you?
 
-+ Open up to the idea of being non-binary. Open up to the idea of being something other than strictly male or female. 
++ Open up to the idea of being non-binary. Or any kind of genderqueer, really. You don't have to be strictly male or female.
 
 + If you feel discomfort with your assigned gender, there's good odds that you're trans. Question even harderer.
 
