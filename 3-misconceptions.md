@@ -55,3 +55,12 @@ There is no perfect age of clarity when everything becomes clear and God(s) part
 Some people only accept themselves as trans well into their retirement.
 Some people know befre they turn ten.
 There really isn't a one-size-fits-all path of transness.
+
+**All trans people want SRS:**
+
+Not really;
+many do, many don't.
+SRS is sorta the 'nuclear option'.
+
+Also, stop worrying about what's in other people's pants;
+jeez.

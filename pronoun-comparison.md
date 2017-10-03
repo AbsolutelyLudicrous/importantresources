@@ -11,3 +11,5 @@ Term | Masculine | Neutral | Feminine
 Formal Terms of Address | Mr. ('mister') | Mx. ('mix') | Mrs./Miss./Ms. ('miss')
 Ownership | His | Their | Her
 Reference | He/Him | They/Them | She/Her
+Children | Son | Child | Daughter
+Siblings | Brother | Sibling | Sister
