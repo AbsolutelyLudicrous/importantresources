@@ -1,0 +1,26 @@
+I'm nonbinary.
+I use they/them pronouns.
+My name doesn't matter; 
+I haven't chosen one yet. 
+
+My sexuality is also weird, I haven't fully figured it out yet.
+I'm not worried about my sexuality, just my gender.
+
+So who the heck am I?
+I'm a huge Unix nerd, love everything physics-related, and am more-outdoorsy-than-average.
+
+I'm currently typing this document from a modern [Solus](https://solus-project.com) box with space allocated for either [NixOS](https://nixos.org/), [GoboLinux](https://gobolinux.org/), [SourceMage](https://sourcemage.org/), or [Bedrock Linux](https://bedrocklinux.org/);
+or maybe even my fourth [Arch](https://www.archlinux.org/) install.
+I have a Network-Attached Storage box consisting of a Raspberry Pi 3 running [OpenMediaVault](https://www.openmediavault.org/) and way too many USB peripherals.
+It isn't much, there are many like it, but this one is mine.
+I administer this server from a decade-old [FreeBSD](https://freebsd.org) box.
+If you ever run in to me in public, I'll probably be wearing a GNU hat with a GNU pin, a Tux pin, an Arch pin, a Genderqueer flag pin, a Vim pin, and a Git pin.
+
+My love of physics is largely sci-fi related;
+I take an interest in orbital mechanics, spaceflight, ISRU, on-orbit assembly, propulsion technology, etc.
+I play way too much Kerbal Space Program, basically.
+
+Finally, I'm decently outdoorsy.
+I always *look* like I'm ready for a hike, but I think that's just the button-downs talking.
+Doesn't mean I dislike nature, though;
+some of my fondest memories are of hiking though exotic locales.
