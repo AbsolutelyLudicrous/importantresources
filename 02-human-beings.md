@@ -28,4 +28,4 @@ We are people.
 
 Again, I need to hammer that home: transgender **people**
 
-\*^(Some NB people *do* use 'it' for their pronouns, in this case you should *absolutely* refer to it with 'it'.)
+\* ^(Some NB people *do* use 'it' for their pronouns, in this case you should *absolutely* refer to it with 'it'.)

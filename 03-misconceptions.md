@@ -64,3 +64,13 @@ SRS is sorta the 'nuclear option'.
 
 Also, stop worrying about what's in other people's pants;
 jeez.
+
+**Transgender is the third gender:**
+
+I, personally, define being transgender as the state of being dissatisfied with one's assigned gender.
+Trans is not a common identity;
+binary people fully identify with either male or female,
+nonbinary people vary in their identities, but identifying as just being 'transgender' is rare.
+
+This isn't to say that you can't identify as just trans;
+it just isn't extremely common.

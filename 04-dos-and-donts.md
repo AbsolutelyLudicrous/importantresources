@@ -18,6 +18,8 @@
  
 + Treat trans people differently from cis people. 
 
++ Ask somebody their 'birth gender', their 'birth name', or what genitals they've got. It's none of your business.
+
 **DOs:**
 
 + Provide support. Everybody needs it from time to time.
