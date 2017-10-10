@@ -24,3 +24,5 @@ So, let me candidly submit the following:
 + I hated shopping for my assigned gender's clothes. I now love shopping for clothing from both sections of the store.
 
 + I hated my face. Some of my facial features just got under my skin, for reasons I couldn't quite place.
+
+What's more, there's nothing *masculine* I love about my body.
