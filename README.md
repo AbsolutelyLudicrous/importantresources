@@ -16,7 +16,7 @@ The last digit indicates an 'addendum', a supplementary document which fits the 
 ---
 
 | **CHAPTERS:**
-|
+| ---
 | 00X - Focus on preliminary information.
 | + 000: Learn some basic terminology.
 | 01X - Focus on the author.
