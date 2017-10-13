@@ -20,6 +20,10 @@
 
 + Ask somebody their 'birth gender', their 'birth name', or what genitals they've got. It's none of your business.
 
++ Say '$name, who used to be $deadname, ...'; Just don't, their dead name is dead, you'll just encourage attacks.
+
++ 'Back when $pronoun was $deadpronoun, ...'; Again, you'll encourage hate. Either tell past stories with current pronouns or use gender neutral pronouns.
+
 **DOs:**
 
 + Provide support. Everybody needs it from time to time.

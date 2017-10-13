@@ -21,3 +21,8 @@
 No, 'they' is not *always* plural.
 
 Singular 'they' is just as valid as 'he' or 'she'.
+
+Shakespeare even used singular 'they' in many of their works.
+Over 2500 times, in fact.
+
+![](/misc/singular-they-in-shake.png)
