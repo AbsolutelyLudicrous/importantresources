@@ -32,3 +32,4 @@ The last digit indicates an 'addendum', a supplementary document which fits the 
 | + 050: Gender is not a binary.
 | + 051: Some people have issues knowing the right pronouns to use.
 | + 052: The English language allows the use of a singular 'they'.
+| + 053: Language is not static
